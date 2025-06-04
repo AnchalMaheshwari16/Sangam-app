@@ -1,0 +1,97 @@
+name: sangam_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel_slider: ^4.2.1
+  stacked_card_carousel: ^0.0.4
+  flutter_html: ^3.0.0-beta.2
+  freedom_table: ^0.3.6+3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.11.0
+  url_launcher: ^6.2.5
+  http: ^1.2.1
+  webview_flutter: ^2.8.0
+  
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/sangam_logo.png
+    - assets/images/logo_cut.png
+    - assets/images/menu1.png
+    - assets/images/logo.png
+    - assets/images/logo.jpeg
+    - assets/images/conference_banner.jpg
+    - assets/images/ba1.jpg
+    - assets/images/b2.jpg
+    - assets/images/student-cap.png
+    - assets/images/building.png
+    - assets/images/image.png
+    - assets/images/schools.png
+    - assets/images/apply.png
+    - assets/images/u.jpg
+    - assets/images/board_members/RP-Soni.jpg
+    - assets/images/board_members/karunesh.jpg
+    - assets/images/board_members/S.N.-Modani.jpg
+    - assets/images/board_members/V.-K.-Sodani-.jpg
+    - assets/images/board_members/Antima-Soni.jpg
+    - assets/images/board_members/Mr.-Anurag-Soni.jpg
+    - assets/images/board_members/Mr.-Pranal-Modani.jpg
+    - assets/images/board_members/Mr.-Yaduvendra-Mathur.jpg
+    - assets/images/board_members/Shri-Harendra-Kumar.jpg
+    - assets/images/board_members/Prof.-P.K.-Singh.jpg
+    - assets/images/board_members/Prof.Dr_.Ramesh-Sharda.jpg
+    - assets/images/board_members/Vibhor-Paliwal.jpg
+    - assets/images/board_members/Prof.-Rakesh-Bhandari.jpg
+    - assets/images/board_members/Prof.-Rajeev-Mehta.jpg
+    - assets/images/board_members/ManasRanjan.jpg
+    - assets/images/administration/Mr.-Satish-Kumar.jpg
+    - assets/images/administration/Dr.-Jag-Bhushan-Sharma.jpg
+    - assets/images/administration/Mr.-B.L.Pareek.jpg
+    - assets/images/administration/Mr.-Anuraag-Sharma.jpg
+    - assets/images/administration/Dr.Amit-Jain.jpeg
+    - assets/images/administration/Dr.-Anurag-Sharma.jpg
+    - assets/images/administration/Dr.-Rajkumar-Jain.jpg
+    - assets/images/administration/Mr.-Jai-Kumar-Kalia.jpg
+    - assets/images/administration/PawanAttrey.jpg
+    - assets/images/administration/Mahaveer-pareek.jpg
+    - assets/images/administration/ajaysuwalka.png
+    - assets/images/administration/nand-kishor.jpg
+    - assets/images/deans/Dr.-Preeti-Mehta.jpg
+    - assets/images/deans/Dr. Pramod.jpg
+    - assets/images/deans/ProfKKSharma.jpg
+    - assets/images/deans/Satya-Prakash.jpg
+    - assets/images/deans/Bindu-yadav.jpg
+    - assets/images/deans/R.K.Somani.jpg
+    - assets/images/hod/vikas-somani.jpg
+    - assets/images/E1.jpg
+    - assets/images/E.jpg
+    - assets/images/E7.jpg
+    - assets/images/g1.jpg
+    - assets/images/E3.jpg
+    - assets/images/E4.jpg
+    - assets/images/E6.jpg
+    - assets/images/E5.jpg
+    - assets/images/linkedin.png
+    - assets/images/insta.png
+    - assets/images/SOET.jpg
+    - assets/images/SOMS.jpg
+    - assets/images/SOBAS.jpg
+    - assets/images/SOLS.jpg
+    - assets/images/SOAH.jpg
+    - assets/images/SOAST.jpg
+    - assets/images/SOP.jpg
+    - assets/images/SON.png
+    - assets/images/SOVS.jpg
+    - assets/images/ORCID_iD.svg.png
+    
